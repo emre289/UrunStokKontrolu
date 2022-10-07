@@ -1,0 +1,16 @@
+D:\M.STUDİO PROJELER\UrunTakipTurkcell\UrunTakipTurkcell\bin\Debug\UrunTakipTurkcell.exe.config
+D:\M.STUDİO PROJELER\UrunTakipTurkcell\UrunTakipTurkcell\bin\Debug\UrunTakipTurkcell.exe
+D:\M.STUDİO PROJELER\UrunTakipTurkcell\UrunTakipTurkcell\bin\Debug\UrunTakipTurkcell.pdb
+D:\M.STUDİO PROJELER\UrunTakipTurkcell\UrunTakipTurkcell\obj\Debug\UrunTakipTurkcell.csproj.AssemblyReference.cache
+D:\M.STUDİO PROJELER\UrunTakipTurkcell\UrunTakipTurkcell\obj\Debug\UrunTakipTurkcell.csproj.SuggestedBindingRedirects.cache
+D:\M.STUDİO PROJELER\UrunTakipTurkcell\UrunTakipTurkcell\obj\Debug\UrunTakipTurkcell.Properties.Resources.resources
+D:\M.STUDİO PROJELER\UrunTakipTurkcell\UrunTakipTurkcell\obj\Debug\UrunTakipTurkcell.csproj.GenerateResource.cache
+D:\M.STUDİO PROJELER\UrunTakipTurkcell\UrunTakipTurkcell\obj\Debug\UrunTakipTurkcell.csproj.CoreCompileInputs.cache
+D:\M.STUDİO PROJELER\UrunTakipTurkcell\UrunTakipTurkcell\obj\Debug\UrunTakipTurkcell.exe
+D:\M.STUDİO PROJELER\UrunTakipTurkcell\UrunTakipTurkcell\obj\Debug\UrunTakipTurkcell.pdb
+D:\M.STUDİO PROJELER\UrunTakipTurkcell\UrunTakipTurkcell\obj\Debug\UrunTakipTurkcell.Admin.resources
+D:\M.STUDİO PROJELER\UrunTakipTurkcell\UrunTakipTurkcell\obj\Debug\UrunTakipTurkcell.FrmGrafikler.resources
+D:\M.STUDİO PROJELER\UrunTakipTurkcell\UrunTakipTurkcell\obj\Debug\UrunTakipTurkcell.FrmKategori.resources
+D:\M.STUDİO PROJELER\UrunTakipTurkcell\UrunTakipTurkcell\obj\Debug\UrunTakipTurkcell.FrmUrun.resources
+D:\M.STUDİO PROJELER\UrunTakipTurkcell\UrunTakipTurkcell\obj\Debug\UrunTakipTurkcell.FrmYonlendirme.resources
+D:\M.STUDİO PROJELER\UrunTakipTurkcell\UrunTakipTurkcell\obj\Debug\UrunTakipTurkcell.Frmİstatisk.resources
